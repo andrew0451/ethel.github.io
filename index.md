@@ -1,5 +1,6 @@
 ---
-layout: main
+layout: default
+title: home
 ---
 {% for post in paginator.posts %}
 <article class="post">
